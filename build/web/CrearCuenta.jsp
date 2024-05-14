@@ -16,7 +16,7 @@
             align-items: center; /* Centrar verticalmente */
             height: 100vh; /* Toma el 100% del alto de la ventana */
         }
-        .form-signin {
+        .form-signin {Crear
             max-width: 330px;
             padding: 15px;
             background-color: #2A6082; /* Color de fondo para el formulario */
@@ -54,8 +54,8 @@
       <label for="floatingInput">Dirección de correo electrónico</label>
     </div>
     <div class="form-floating">
-      <input type="password" class="form-control" id="floatingPassword" name="password" placeholder="Contraseña" required>
-      <label for="floatingPassword">Contraseña</label>
+      <input type="text" class="form-control" id="floatingPassword" name="password" placeholder="Contraseña" required>
+      <label for="floatingPassword">Nombre</label>
     </div>
 
     

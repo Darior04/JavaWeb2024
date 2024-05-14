@@ -35,7 +35,7 @@
             <li class="nav-item"><a href="paginaProyecto.jsp" class="nav-link active">Hogar</a></li>
             <li class="nav-item"><a href="Tutoriales.jsp" class="nav-link">Tutoriales</a></li>
             <li class="nav-item"><a href="tienda.jsp" class="nav-link">Tienda</a></li>
-            <li class="nav-item"><a href="CrearCuenta.jsp" class="nav-link">Registrate</a></li>
+            <li class="nav-item"><a href="Cuestionario.jsp" class="nav-link">Test</a></li>
             <li class="nav-item"><a href="Sobre.jsp" class="nav-link">Acerca de</a></li>
         </ul>
     </header>

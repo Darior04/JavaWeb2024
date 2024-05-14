@@ -22,16 +22,11 @@ public class LoginServlet extends HttpServlet {
         Connection conn = null;
         Statement stmt = null;
         
-        String url = "jdbc:mysql://localhost:3306/users_db?zeroDateTimeBehavior=CONVERT_TO_NULL";
-        String username = "root";
-        String dbPassword = "dario500";
-        
         String email = request.getParameter("email");
         String password = request.getParameter("password");
         
         try{
-            Class.forName("com.mysql.cj.jdbc.Driver");
-            conn = DriverManager.getConnection(url, username, dbPassword);
+            conn = Modelo.conectarBD();
             stmt = conn.createStatement();
             stmt.executeUpdate("INSERT INTO users (email, password) VALUES ('"+email+"','"+password+"')");
             

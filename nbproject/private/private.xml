@@ -3,13 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/Tutoriales.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/src/java/Modelo.java</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/src/java/test.java</file>
             <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/Inicio.jsp</file>
             <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/Sobre.jsp</file>
-            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/CrearCuenta.jsp</file>
             <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/paginaProyecto.jsp</file>
-            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/exito.jsp</file>
             <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/tienda.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/src/java/Connection.java</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/Tutoriales.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/src/java/LoginServlet.java</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/Cuestionario.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/CrearCuenta.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/web/exito.jsp</file>
+            <file>file:/C:/Users/Dario/Documents/NetBeansProjects/PaginaProyecto/src/java/Usuario.java</file>
         </group>
     </open-files>
 </project-private>

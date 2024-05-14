@@ -43,10 +43,10 @@
 </head>
 <body>
     <div class="container">
-        <h1>¡Cuenta Creada con Éxito!</h1>
-        <p>Tu cuenta ha sido creada exitosamente. ¡Bienvenido a nuestra comunidad de agricultores!</p>
+        <h1>¡Gracias por acceder!</h1>
+        <p>Ahora podras tener acceso a todos nuestros recursos disponibles. ¡Bienvenido a nuestra comunidad de agricultores!</p>
         <form action="inicio" method="post">
-          <button type="button" onclick="window.location.href='Inicio.jsp'">Regresar al Inicio</button>
+          <button type="button" onclick="window.location.href='Inicio.jsp'">Ir a la pagina principal</button>
         </form>
     </div>
 </body>
